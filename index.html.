@@ -1,0 +1,53 @@
+<section class="cinema">
+
+    <h1>🎬 O Mundo dos Filmes e das Séries</h1>
+
+    <!-- Imagem do Top 10 -->
+    <img src="top10.png"
+         alt="Top 10 filmes e séries em destaque"
+         class="imagem-top10">
+
+    <h2>A importância das séries</h2>
+
+    <p>
+        As séries e os filmes são muito mais do que simples formas
+        de entretenimento. Eles permitem-nos conhecer diferentes
+        culturas, descobrir novas histórias, aprender lições de vida
+        e desenvolver a nossa imaginação.
+    </p>
+
+    <p>
+        Através das personagens e das suas experiências, podemos
+        refletir sobre valores como a amizade, o respeito, a coragem,
+        a família e a superação. Além disso, assistir a séries também
+        pode ajudar-nos a aprender novas palavras e línguas.
+    </p>
+
+    <p>
+        O importante é aproveitar estes momentos de diversão
+        sem esquecer os estudos e as nossas responsabilidades.
+    </p>
+
+    <h2>🏆 TOP 10 FILMES EM DESTAQUE</h2>
+
+    <ol>
+        <li>Animals</li>
+        <li>Doing Life</li>
+        <li>Love of Your Life</li>
+        <li>Masterplan</li>
+        <li>The Love Hypothesis</li>
+        <li>Project Hail Mary</li>
+        <li>The Last Sunrise</li>
+        <li>Ice Age</li>
+        <li>Corpse Bride</li>
+        <li>Anyone But You</li>
+    </ol>
+
+    <p class="nota">
+        Nota: A popularidade dos filmes e séries pode variar
+        conforme o país e a plataforma.
+    </p>
+
+    <h3>🍿 Prepare a pipoca e aproveite!</h3>
+
+</section>
